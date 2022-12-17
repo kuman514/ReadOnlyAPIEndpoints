@@ -7,6 +7,11 @@
       "id": "0-title",
       "type": "h1",
       "content": "Koishi Komeiji"
+    },
+    {
+      "id": "1-tmp-youtube",
+      "type": "youtube",
+      "content": "zTHeemYhsaE"
     }
   ]
 }
