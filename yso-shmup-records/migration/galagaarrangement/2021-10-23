@@ -1,5 +1,4 @@
 {
-  "id": "2021-10-23",
   "when": "2021-10-23",
   "typeId": "galagaarrangement",
   "stage": "ALL",
@@ -7,7 +6,9 @@
   "byWhat": "arcade-akatronics",
   "comment": "갤러그 어레인지 노컨티뉴 클리어 완료했습니다! 적들이 산만하게 탄을 무작정 뿌려대고 돌진해서, 얼마나 많이 죽었는지 셀 수 없을 정도로 어렵고 어지러웠습니다 ㅠㅠㅠㅠ 게다가 이 스코어 점포 탑이라고 하네요... 이럴 줄은 꿈에도 몰랐습니다 ㅠㅠㅠ 오늘 도전하길 잘했습니다 ㅠㅠㅠ",
   "thumbnailUrl": "/galagaarrangement--2021-10-23/thumbnail.jpg",
-  "originalImageUrls": ["/galagaarrangement--2021-10-23/original-1.jpg"],
+  "originalImageUrls": [
+    "/galagaarrangement--2021-10-23/original-1.jpg"
+  ],
   "specialTags": [
     "shop-record"
   ]

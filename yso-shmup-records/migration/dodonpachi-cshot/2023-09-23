@@ -1,5 +1,4 @@
 {
-  "id": "2023-09-23",
   "when": "2023-09-23",
   "typeId": "dodonpachi-cshot",
   "stage": "2-6",
@@ -7,7 +6,9 @@
   "byWhat": "arcade-akatronics",
   "comment": "도돈파치(1997) 개인 통산 3번째 1억점 달성 + 개인 통산 2번째 1미스로 2주 진출 + 개인 통산 2번째 2-6 진출!!! 1-4 보스를 멈추지 못했던 점이랑 1-5 보스 노미스 못했던 점, 그리고 2-2 노미스 못했던 점은 꽤 아쉽다 ㅠㅠㅠ",
   "thumbnailUrl": "/dodonpachi-cshot--2023-09-23/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2023-09-23/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2023-09-23/original-1.jpg"
+  ],
   "youtubeUrl": "https://www.youtube.com/embed/tu-Ne80LgJk",
   "specialTags": []
 }

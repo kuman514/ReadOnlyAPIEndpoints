@@ -1,5 +1,4 @@
 {
-  "id": "2024-01-01",
   "when": "2024-01-01",
   "typeId": "dodonpachi-cshot",
   "stage": "2-5",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "신년 기념으로 아카트로닉스 가서 도돈파치(1997) C-Shot 즐기고 왔다… 1-5부터 잘 안 돼서 힘이 빠졌는데 뜬금없이 2-4 노미스 했다… 시작부터 봄이 없어 최대한 회피하려고 노력했던 것 같은데, 그걸 감안해도 어떻게 한건지 잘 모르겠다 아마도 운이 꽤 좋았던 듯?",
   "thumbnailUrl": "/dodonpachi-cshot--2024-01-01/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2024-01-01/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2024-01-01/original-1.jpg"
+  ],
   "specialTags": []
 }

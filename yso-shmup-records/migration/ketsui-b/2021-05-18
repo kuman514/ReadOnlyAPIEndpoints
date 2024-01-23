@@ -1,5 +1,4 @@
 {
-  "id": "2021-05-18",
   "when": "2021-05-18",
   "typeId": "ketsui-b",
   "stage": "1-4",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "케츠이 1-2까지 노미스 + 1-4까지 발 뻗음... 2P B(폭탄)버튼이 고장나서 강제봄을 하고 있었음에도, 1P로 못가본 곳을 가네...",
   "thumbnailUrl": "/ketsui-b--2021-05-18/thumbnail.jpg",
-  "originalImageUrls": ["/ketsui-b--2021-05-18/original-1.jpg"],
+  "originalImageUrls": [
+    "/ketsui-b--2021-05-18/original-1.jpg"
+  ],
   "specialTags": []
 }

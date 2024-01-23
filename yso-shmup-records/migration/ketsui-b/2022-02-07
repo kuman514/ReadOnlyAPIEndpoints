@@ -1,5 +1,4 @@
 {
-  "id": "2022-02-07",
   "when": "2022-02-07",
   "typeId": "ketsui-b",
   "stage": "1-5",
@@ -7,7 +6,9 @@
   "byWhat": "ketsui-deathtiny-ps4",
   "comment": "케츠이 B타입 1-5 보스까지 갔습니다! 조금만 더 버텼으면 클리어한건데, 그 전까지 미스가 딱 한 번만 덜 났으면 어땠을까 싶어서 꽤 아쉽기도 하네요 ㅠㅠ 그래도 연습모드 덕분에 1-3과 1-4가 좀 더 수월했고, 2차 스코어 익스텐드도 잘 받아먹었습니다 ㅎㅎ",
   "thumbnailUrl": "/ketsui-b--2022-02-07/thumbnail.jpg",
-  "originalImageUrls": ["/ketsui-b--2022-02-07/original-1.jpg"],
+  "originalImageUrls": [
+    "/ketsui-b--2022-02-07/original-1.jpg"
+  ],
   "specialTags": [],
   "youtubeUrl": "https://www.youtube.com/embed/qXXOw9onpmo"
 }

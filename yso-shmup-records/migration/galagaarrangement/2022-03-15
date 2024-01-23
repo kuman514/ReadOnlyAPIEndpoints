@@ -1,5 +1,4 @@
 {
-  "id": "2022-03-15",
   "when": "2022-03-15",
   "typeId": "galagaarrangement",
   "stage": "ALL",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "오랜만에 갤러그 어레인지 올클 2번! 첫번째는 미스가 다발하고도 점포TOP보다 40초 빨랐네요... 미스가 나지 않았다면 점포TOP 새로 갱신할 수도 있었는데 아쉽습니다...",
   "thumbnailUrl": "/galagaarrangement--2022-03-15/thumbnail.jpg",
-  "originalImageUrls": ["/galagaarrangement--2022-03-15/original-1.jpg"],
+  "originalImageUrls": [
+    "/galagaarrangement--2022-03-15/original-1.jpg"
+  ],
   "specialTags": []
 }

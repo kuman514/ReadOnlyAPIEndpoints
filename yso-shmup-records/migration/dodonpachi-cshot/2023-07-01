@@ -1,5 +1,4 @@
 {
-  "id": "2023-07-01",
   "when": "2023-07-01",
   "typeId": "dodonpachi-cshot",
   "stage": "2-5",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "오늘 도돈파치(1997)… 2주 전의 그 날과 달리 1주에서 3미스를 넘겨버렸지만, 1-5에서 봄 맥시멈을 켜고 콤보를 쌓은 덕분인지, 1주 점수가 6000만점을 넘어있더라구요… 이번에도 2-5에서 멈췄고 1억점을 못했지만 기분좋네요…",
   "thumbnailUrl": "/dodonpachi-cshot--2023-07-01/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2023-07-01/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2023-07-01/original-1.jpg"
+  ],
   "specialTags": []
 }

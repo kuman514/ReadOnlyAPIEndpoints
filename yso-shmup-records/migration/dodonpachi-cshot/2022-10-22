@@ -1,5 +1,4 @@
 {
-  "id": "2022-10-22",
   "when": "2022-10-22",
   "typeId": "dodonpachi-cshot",
   "stage": "2-5",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "도돈파치(1997) 2-5 진출 성공했습니다! 1주는 물론 2주에서까지 회피가 너무 잘 된 덕분에 미스와 봄 낭비를 줄였고, 그 결과 두 번째 5천만점 2주 진출 + 2-4보스 격파 + 개인 점수 기록 갱신했습니다! 솔직히 슈팅게임 할 때마다 압박을 많는 편인데 이번 판에는 엄청 잘 이겨냈네요 ㅎㅎ",
   "thumbnailUrl": "/dodonpachi-cshot--2022-10-22/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2022-10-22/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2022-10-22/original-1.jpg"
+  ],
   "specialTags": []
 }

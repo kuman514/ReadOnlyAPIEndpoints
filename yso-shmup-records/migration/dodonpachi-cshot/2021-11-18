@@ -1,5 +1,4 @@
 {
-  "id": "2021-11-18",
   "when": "2021-11-18",
   "typeId": "dodonpachi-cshot",
   "stage": "2-4",
@@ -7,7 +6,9 @@
   "byWhat": "arcade-akatronics",
   "comment": "도돈파치(1997) 2-4까지 진출! 1-4 보스전 앞까지 벌퍼펙트 노미스 노봄 + 봄 낭비 줄이고 기합회피로 생존 + 매 목숨마다 봄은 꼭 다 쓰고 죽은 덕분에 이렇게 멀리 왔습니다! 근데 2주는 패턴화 안 돼 있으면 봄을 연발할 수 밖에 없어서 좀 더 연습해야겠네요 ㄷㄷ",
   "thumbnailUrl": "/dodonpachi-cshot--2021-11-18/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2021-11-18/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2021-11-18/original-1.jpg"
+  ],
   "tweetUrl": "https://twitter.com/kumankoishi/status/1461241865613709318",
   "specialTags": []
 }

@@ -1,5 +1,4 @@
 {
-  "id": "2023-09-05",
   "when": "2023-09-05",
   "typeId": "dodonpachi-cshot",
   "stage": "2-6",
@@ -7,7 +6,9 @@
   "byWhat": "arcade-akatronics",
   "comment": "도돈파치(1997) 2-6 진출 + 1억점 달성! 1-4까지 노미스 노봄 + 1-5 1미스 + 1-6 노미스 + 2-1이랑 2-2 노미스 + 2-3 1미스 등등, 여러 가지 대박이 맞물린 덕분에 목숨을 많이 가져갈 수 있어서 멀리 나갈 수 있었고, 그 과정에서 쌓은 스코어도 많다 보니 1억점을 드디어 넘겨보네요!",
   "thumbnailUrl": "/dodonpachi-cshot--2023-09-05/thumbnail.jpg",
-  "originalImageUrls": ["/dodonpachi-cshot--2023-09-05/original-1.jpg"],
+  "originalImageUrls": [
+    "/dodonpachi-cshot--2023-09-05/original-1.jpg"
+  ],
   "tweetUrl": "https://twitter.com/kumankoishi/status/1698946073467969651",
   "specialTags": []
 }

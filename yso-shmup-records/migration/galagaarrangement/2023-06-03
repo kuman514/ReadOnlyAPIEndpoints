@@ -1,5 +1,4 @@
 {
-  "id": "2023-06-03",
   "when": "2023-06-03",
   "typeId": "galagaarrangement",
   "stage": "ALL",
@@ -7,7 +6,9 @@
   "byWhat": "arcade-akatronics",
   "comment": "아카트로닉스 5주년 쇼케이스 갤러그 어레인지 부문 종료합니다! 첫 플레이에서 목표 달성 후 미스를 줄여보려 재도전을 했으나… 역시 미스가 나면 급격하게 위험해지는건 어쩔 수 없었네요… 그래도 한 번에 목표를 완수한 것이 정말 다행이었습니다! 시청해주셔서 감사드립니다! 아카트로닉스 5주년 축하드려요!!! 앞으로도 오래오래 운영되길!!!",
   "thumbnailUrl": "/galagaarrangement--2023-06-03/thumbnail.jpg",
-  "originalImageUrls": ["/galagaarrangement--2023-06-03/original-1.jpg"],
+  "originalImageUrls": [
+    "/galagaarrangement--2023-06-03/original-1.jpg"
+  ],
   "specialTags": [
     "akatronics-5th-anniversary"
   ],

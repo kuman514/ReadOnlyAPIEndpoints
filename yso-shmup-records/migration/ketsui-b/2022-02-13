@@ -1,5 +1,4 @@
 {
-  "id": "2022-02-13",
   "when": "2022-02-13",
   "typeId": "ketsui-b",
   "stage": "1-ALL",
@@ -7,6 +6,8 @@
   "byWhat": "arcade-akatronics",
   "comment": "케츠이 1주 드디어 실기에서도 클리어했습니다! 사실 오늘 시도를 꽤 많이 했었지만, 미스가 너무 다발했던 탓에 오늘은 안 되는가 싶었습니다 ㅠㅠ 딱 이 마지막 판에 PS4에서 했던 그 양상대로 흘러가길래 희망을 걸고 봄을 아끼지 않았더니 그대로 클리어까지 갔네요 ㅠㅠ 정말 다행입니다 ㅠㅠㅠㅠ",
   "thumbnailUrl": "/ketsui-b--2022-02-13/thumbnail.jpg",
-  "originalImageUrls": ["/ketsui-b--2022-02-13/original-1.jpg"],
+  "originalImageUrls": [
+    "/ketsui-b--2022-02-13/original-1.jpg"
+  ],
   "specialTags": []
 }
